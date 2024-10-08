@@ -1,0 +1,2 @@
+Customer ID: 1, Transaction: Withdraw, Amount: $5000.0
+Customer ID: 1, Transaction: Withdraw, Amount: $500.0

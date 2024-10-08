@@ -1,0 +1,1 @@
+Customer ID: 1, Name: Md. Moinul, Account Number: 1000, Account Type: Checking, Balance: 4000.0
